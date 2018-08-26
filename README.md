@@ -2,13 +2,7 @@
 
 * Sample dataset: iris.csv
 
-* Here is the overall truth table:
-
-![alt text](./truthTable.png)
-
-* Here is design diagram:
-
-![alt text](./design.png)
+* Content:all .ipynb are executable, while .py are not.
 
 * After traing ,test this classifier using a sample:
 ```python
@@ -17,3 +11,11 @@
 >>>gate.forTestSample(sample=[5.9, 3.0, 5.1, 1.8], w1=w1,b1=b1,w2=w2,b2=b2)
 [0, 0, 1]
 ```
+
+* Here is the overall truth table:
+
+![alt text](./truthTable.png)
+
+* Here is design diagram:
+
+![alt text](./design.png)
