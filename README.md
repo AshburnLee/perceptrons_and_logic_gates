@@ -10,7 +10,7 @@
 
 ![alt text](./design.png)
 
-* Use of this classifier:
+* After traing ,test this classifier using a sample:
 ```python
 #[5.9, 3.0, 5.1, 1.8] is the sample for testing 
 >>>import gatesAsSndLayer as gate
